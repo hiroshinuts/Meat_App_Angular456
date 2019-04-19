@@ -387,6 +387,40 @@
         }
       ],
       "id": 1
+    },
+    {
+      "address": "R. Carlos Chagas",
+      "number": "123",
+      "optionalAddress": "123",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup"
+        },
+        {
+          "quantity": 1,
+          "menuId": "cake"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "R. Carlos Chagas",
+      "number": "110",
+      "optionalAddress": "123",
+      "paymentOption": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "sunday"
+        },
+        {
+          "quantity": 1,
+          "menuId": "chocpop"
+        }
+      ],
+      "id": 3
     }
   ]
 }
